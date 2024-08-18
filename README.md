@@ -4,7 +4,7 @@ Hate-Crime
 
 ## FBI Hate Crime
 
-!(assets/US Hate Crime.png)
+![Image URL](https://cdn.statcdn.com/Infographic/images/normal/16100.jpeg)
 
 ## Research Question
 How have significant periods of social unrest between 1991 and 2022 impacted reported hate crime rates in the United States, and what are the projected trends for 2030?
