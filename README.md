@@ -17,7 +17,7 @@ This project examines the connection between periods of social unrest and report
 ### Data Collection
 
 ### Source
-Reported Hate Crime data from 1991 to 2022, sourced from FBI public data sets (FBI Hate Crime Data Set), alongside data on periods of social unrest in the United States during the same timeframe, primarily gathered from Wikipedia (Wikipedia Social Unrest Data Source).
+Reported Hate Crime data from 1991 to 2022, sourced from FBI public data sets (FBI Hate Crime Data Set), alongside data on periods of social unrest in the United States during the same timeframe, primarily gathered from Wikipedia (Wikipedia 2024).
 
 ### Variables
 Key variables in the hate crime data include the incident data, offense type, location, and bias description. Essential variables in the social unrest data include the data, bias description, and location.
@@ -47,5 +47,5 @@ Interrupted Time Series Analysis enables the examination of changes in the level
 ## Discussion / Recommendations
 
 ## References
-- [FBI Hate Crime Data Set](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#datasets)
-- [Wikiepedia Social Unrest Data Source](https://en.wikipedia.org/wiki/List_of_incidents_of_civil_unrest_in_the_United_States#1990%E2%80%931999)
+- [FBI Hate Crime Data Set, 2023, [online] Available](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#datasets)
+- [Wikiepedia List of Civil Unrest, 2024, [online] Available](https://en.wikipedia.org/wiki/List_of_incidents_of_civil_unrest_in_the_United_States#1990%E2%80%931999)
