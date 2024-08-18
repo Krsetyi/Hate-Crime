@@ -1,4 +1,6 @@
-# L6 Data Science Portfolio Y1 T3 Hate-Crime
+# L6 Data Science Professional Practice 
+Year 1 Term 3 
+Hate-Crime
 
 ## Research Question
 How have significant periods of social unrest between 1991 and 2022 impacted reported hate crime rates in the United States, and what are the projected trends for 2030?
