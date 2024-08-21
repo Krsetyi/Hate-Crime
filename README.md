@@ -16,6 +16,7 @@ This project investigates the relationship between periods of social unrest and 
 
 Identifying how different variables impact hate crime is essential for several key reasons. Firstly, it helps to uncover the underlying causes and contributing factors that lead to the perpetration of hate crimes (Analysis of hate crimes, 2024). By understanding these influences—whether they be social, economic, political, or cultural—authorities and communities can better predict when and where such crimes are likely to occur, allowing for more effective prevention measures.
 Secondly, recognising the variables that drive hate crime provides a foundation for developing targeted interventions. For example, if economic hardship or political rhetoric is found to be a significant factor, strategies can be designed to address these specific issues, potentially reducing the likelihood of hate crimes occurring.
+
 Furthermore, understanding the impact of various variables on hate crime is crucial for shaping policies and educational programmes aimed at reducing prejudice and promoting tolerance. This insight enables policymakers, educators, and community leaders to address the root causes of hate, rather than just its symptoms, fostering long-term societal change.
 Ultimately, identifying these variables not only aids in reducing the incidence of hate crime but also contributes to creating a more just and inclusive society, where all individuals feel safe and valued.
 
@@ -28,6 +29,7 @@ This project uses reported Hate Crime data from 1991 to 2022, which has been sou
 
 ### Variables
 Key variables in the hate crime data include the data of the incident, the type of offense committed, the geographic location of the crime, and a description of the bias or motivation behind the act.
+
 In the social unrest data, essential variables include the date of the unrest, a description of the underlying issues or biases driving the unrest, and the geographic location where the events occurred.
 
 ### Data Preparation / Cleaning
