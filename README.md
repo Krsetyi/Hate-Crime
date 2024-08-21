@@ -14,7 +14,7 @@ This project investigates the relationship between periods of social unrest and 
 
 ## Introduction / Project Background
 
-Identifying how different variables impact hate crime is essential for several key reasons. Firstly, it helps to uncover the underlying causes and contributing factors that lead to the perpetration of hate crimes (Analysis of hate crimes, 2024). By understanding these influences—whether they be social, economic, political, or cultural—authorities and communities can better predict when and where such crimes are likely to occur, allowing for more effective prevention measures.
+Identifying how different variables impact hate crime is essential for several key reasons. Firstly, it helps to uncover the underlying causes and contributing factors that lead to the perpetration of hate crimes **(Analysis of hate crimes, 2024)**. By understanding these influences—whether they be social, economic, political, or cultural—authorities and communities can better predict when and where such crimes are likely to occur, allowing for more effective prevention measures.
 Secondly, recognising the variables that drive hate crime provides a foundation for developing targeted interventions. For example, if economic hardship or political rhetoric is found to be a significant factor, strategies can be designed to address these specific issues, potentially reducing the likelihood of hate crimes occurring.
 
 Furthermore, understanding the impact of various variables on hate crime is crucial for shaping policies and educational programmes aimed at reducing prejudice and promoting tolerance. This insight enables policymakers, educators, and community leaders to address the root causes of hate, rather than just its symptoms, fostering long-term societal change.
@@ -25,7 +25,7 @@ Ultimately, identifying these variables not only aids in reducing the incidence 
 ### Data Collection
 
 ### Source
-This project uses reported Hate Crime data from 1991 to 2022, which has been sourced from FBI public data sets (FBI 2023). To complement this, data on periods of social unrest in the United States within the same timeframe has been collected, primarily gathered from Wikipedia (Wikipedia 2024).
+This project uses reported Hate Crime data from 1991 to 2022, which has been sourced from FBI public data sets **(FBI 2023)**. To complement this, data on periods of social unrest in the United States within the same timeframe has been collected, primarily gathered from Wikipedia **(Wikipedia 2024)**.
 
 ### Variables
 Key variables in the hate crime data include the data of the incident, the type of offense committed, the geographic location of the crime, and a description of the bias or motivation behind the act.
@@ -52,7 +52,7 @@ Interrupted Time Series Analysis allows for the examination of changes in both t
 
 ## Recommendations
 
-Projecting the impact of social unrest on reported hate crimes is challenging due to several key limitations. Inconsistent data, underreporting (the hate crime reporting, 2017), and varying regional practices complicate accuracy. Establishing a direct link between unrest and hate crimes is difficult because other factors, such as economic stress or media influence, may also play a role. Timing discrepancies, regional differences, media distortion, and government actions further complicate projections. 
+Projecting the impact of social unrest on reported hate crimes is challenging due to several key limitations. Inconsistent data, underreporting **(the hate crime reporting, 2017)**, and varying regional practices complicate accuracy. Establishing a direct link between unrest and hate crimes is difficult because other factors, such as economic stress or media influence, may also play a role. Timing discrepancies, regional differences, media distortion, and government actions further complicate projections. 
 
 Additionally, the varying short- and long-term effects of social unrest require careful modelling. Collecting and integrating inconsistent data from multiple sources adds to these challenges, as variations in data quality and reporting practices, along with gaps due to underreporting, reduce reliability. These factors necessitate a cautious and nuanced approach to data analysis, accounting for uncertainties and contextual nuances.
 
