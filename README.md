@@ -59,14 +59,14 @@ Additionally, the varying short- and long-term effects of social unrest require 
 ## Discussion and Conclusion
 
 ## References
-1.	FBI Hate Crime Data Set, 2023, [online] Available [CDE(cjis.gov)](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#datasets) [Accessed 2024]
-2.	Wikipedia List of Civil Unrest, 2024, [online] Available: [List of incidents of civil unrest in the United States - Wikipedia](https://en.wikipedia.org/wiki/List_of_incidents_of_civil_unrest_in_the_United_States#1990%E2%80%931999) [Accessed 2024]
-3.	The hate crime reporting gap & why it matters, 2017, [online] Available: [The Hate Crimes Reporting Gap & Why It Matters | Not in Our Town (niot.org) ](https://www.niot.org/cops/resources/hate-crime-reporting-gap-why-it-matters) [Accessed 2024]
-4.	Analysis of Hate Crimes in the United States, 2024, [online] Available: [Analysis of Hate Crime Rates in the United States: Statistical Modeling of Public Safety Issues Based on Socioeconomic Factors | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9636943) [Accessed 2024]
-5.	U.S. Hate Crime Investigation Rates and Characteristics, 2021, [online] Available: [U.S. Hate Crime Investigation Rates and Characteristics: Findings from the National Hate Crime Investigations Study (NHCIS) (ojp.gov)](https://www.ojp.gov/pdffiles1/nij/grants/304531.pdf) [Accessed 2024]
-6.	Learn About Hate Crimes, 2024, [online] Available: [Hate Crimes | United States Department of Justice | Hate Crimes | Learn More](https://www.justice.gov/hatecrimes/learn-about-hate-crimes) [Accessed 2024]
-7.	Crime type definitions, 2024, [online] Available: https://www.met.police.uk/sd/stats-and-data/met/crime-type-definitions/ [Accessed 2024]
-8.	Designing Buildings, 2024, [online] Available: [Purpose group - Designing Buildings](https://www.designingbuildings.co.uk/wiki/Purpose_group) [Accessed 2024]
+1.	FBI Hate Crime Data Set, 2023, [online] Available [CDE(cjis.gov)](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/downloads#datasets) [Accessed June 2024]
+2.	Wikipedia List of Civil Unrest, 2024, [online] Available: [List of incidents of civil unrest in the United States - Wikipedia](https://en.wikipedia.org/wiki/List_of_incidents_of_civil_unrest_in_the_United_States#1990%E2%80%931999) [Accessed June 2024]
+3.	The hate crime reporting gap & why it matters, 2017, [online] Available: [The Hate Crimes Reporting Gap & Why It Matters | Not in Our Town (niot.org) ](https://www.niot.org/cops/resources/hate-crime-reporting-gap-why-it-matters) [Accessed July 2024]
+4.	Analysis of Hate Crimes in the United States, 2024, [online] Available: [Analysis of Hate Crime Rates in the United States: Statistical Modeling of Public Safety Issues Based on Socioeconomic Factors | IEEE Conference Publication | IEEE Xplore](https://ieeexplore.ieee.org/document/9636943) [Accessed July 2024]
+5.	U.S. Hate Crime Investigation Rates and Characteristics, 2021, [online] Available: [U.S. Hate Crime Investigation Rates and Characteristics: Findings from the National Hate Crime Investigations Study (NHCIS) (ojp.gov)](https://www.ojp.gov/pdffiles1/nij/grants/304531.pdf) [Accessed July 2024]
+6.	Learn About Hate Crimes, 2024, [online] Available: [Hate Crimes | United States Department of Justice | Hate Crimes | Learn More](https://www.justice.gov/hatecrimes/learn-about-hate-crimes) [Accessed June 2024]
+7.	Crime type definitions, 2024, [online] Available: https://www.met.police.uk/sd/stats-and-data/met/crime-type-definitions/ [Accessed June 2024]
+8.	Designing Buildings, 2024, [online] Available: [Purpose group - Designing Buildings](https://www.designingbuildings.co.uk/wiki/Purpose_group) [Accessed June 2024]
 9.	
 10.	
 11.	
