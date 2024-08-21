@@ -59,7 +59,7 @@ Additionally, the varying short- and long-term effects of social unrest require 
 ## Discussion and Conclusion
 
 ## References
-1.	FBI Hate Crime Data Set, 2023, [online] Available https://CDE(cjis.gov) [Accessed 2024]
+1.	FBI Hate Crime Data Set, 2023, [online] Available CDE(cjis.gov) [Accessed 2024]
 2.	Wikipedia List of Civil Unrest, 2024, [online] Available: List of incidents of civil unrest in the United States - Wikipedia [Accessed 2024]
 3.	The hate crime reporting gap & why it matters, 2017, [online] Available: The Hate Crimes Reporting Gap & Why It Matters | Not in Our Town (niot.org) [Accessed 2024]
 4.	Analysis of Hate Crimes in the United States, 2024, [online] Available: Analysis of Hate Crime Rates in the United States: Statistical Modeling of Public Safety Issues Based on Socioeconomic Factors | IEEE Conference Publication | IEEE Xplore [Accessed 2024]
